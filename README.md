@@ -1,2 +1,2 @@
 # MyPort
-Сollection of interesting projects
+Здесь собраны наиболее интересные реализованные проекты и задачи.  
